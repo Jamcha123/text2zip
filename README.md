@@ -1,2 +1,2 @@
-# CompressO
-CompressO compresses files to bin files using gzip
+# compressly
+compressly compresses files to bin files using gzip
